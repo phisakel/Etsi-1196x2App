@@ -78,6 +78,7 @@
 				76A71E8B2FBE041700EAF74A /* Etsi-1196x2App */,
 				76A71E992FBE041B00EAF74A /* Etsi-1196x2AppTests */,
 				76A71EA32FBE041B00EAF74A /* Etsi-1196x2AppUITests */,
+				76A71EB62FBE0F7900EAF74A /* Frameworks */,
 				76A71E8A2FBE041700EAF74A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +91,13 @@
 				76A71EA02FBE041B00EAF74A /* Etsi-1196x2AppUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		76A71EB62FBE0F7900EAF74A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +203,8 @@
 			);
 			mainGroup = 76A71E802FBE041700EAF74A;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 76A71E8A2FBE041700EAF74A /* Products */;
 			projectDirPath = "";
