@@ -1,6 +1,6 @@
 # Etsi-1196x2App
 
-A Swift demo application showing how to integrate the [EudiEtsi1196x2](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-etsi-1196x2) package into an iOS wallet. It covers all major usage patterns: live LoTE trust list fetching, cached resolution, bundled certificate pinning, and interactive chain validation.
+A Swift demo application showing how to integrate the [EudiEtsi1196x2](https://github.com/eu-digital-identity-wallet/eudi-lib-kmp-etsi-1196x2) package into an iOS wallet. It covers all major usage patterns: live LoTE trust list fetching, cached resolution, bundled certificate pinning, and interactive chain validation.
 
 ## Requirements
 
