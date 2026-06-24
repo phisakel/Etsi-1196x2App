@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		767542672FEBC23E000FB88E /* EudiEtsi1196x2 in Frameworks */ = {isa = PBXBuildFile; productRef = 767542662FEBC23E000FB88E /* EudiEtsi1196x2 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		76A71E972FBE041B00EAF74A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				767542672FEBC23E000FB88E /* EudiEtsi1196x2 in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,6 +125,7 @@
 			);
 			name = "Etsi-1196x2App";
 			packageProductDependencies = (
+				767542662FEBC23E000FB88E /* EudiEtsi1196x2 */,
 			);
 			productName = "Etsi-1196x2App";
 			productReference = 76A71E892FBE041700EAF74A /* Etsi-1196x2App.app */;
@@ -204,6 +210,7 @@
 			mainGroup = 76A71E802FBE041700EAF74A;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
+				767542652FEBC229000FB88E /* XCRemoteSwiftPackageReference "eudi-lib-kmp-etsi-1196x2" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 76A71E8A2FBE041700EAF74A /* Products */;
@@ -588,6 +595,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		767542652FEBC229000FB88E /* XCRemoteSwiftPackageReference "eudi-lib-kmp-etsi-1196x2" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/eu-digital-identity-wallet/eudi-lib-kmp-etsi-1196x2/";
+			requirement = {
+				kind = revision;
+				revision = 7497cc20f53fcfe616a52926276ea67a6a3ffa52;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		767542662FEBC23E000FB88E /* EudiEtsi1196x2 */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 767542652FEBC229000FB88E /* XCRemoteSwiftPackageReference "eudi-lib-kmp-etsi-1196x2" */;
+			productName = EudiEtsi1196x2;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 76A71E812FBE041700EAF74A /* Project object */;
 }
