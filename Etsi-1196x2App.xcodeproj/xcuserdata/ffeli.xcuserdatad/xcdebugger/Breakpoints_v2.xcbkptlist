@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43271187-5D98-456E-B233-615382D9D297"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "main"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - c9935ac45b3ccb18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Etsi-1196x2App.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ffeli/Source/niscy/Etsi-1196x2App/Etsi-1196x2App/Etsi_1196x2AppApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - d672edd3cf0319bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSOperationQueue.DelayReadyOperation.main() -&gt; ()"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 1bb78baf6733f683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc __C.NSOperationQueue.DelayReadyOperation.main() -&gt; ()"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 70b2621ad844c1de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NSBlockOperation main]"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - a1144261aa71be92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NSThread main]"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 6be0628d122d362e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NSOperation main]"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - a35572c8d999df12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NSInvocationOperation main]"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 84fd3d4f6ced471c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_NSBarrierOperation main]"
+                  moduleName = "Foundation"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 58b8f92255ed57f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPSpotlightFetchClientStateOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 723179a69dd8bba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPSpotlightFetchOneBatchFromWorkingSetOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 22902d405bd4a203"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPSpotlightIndexOneBatchOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - fc1aeb7613fc5c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPFetchAppLibraryIconsOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 53bac5bbf0876d57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPFetchRegularItemThumbnailsOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 6441310c1c364b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPFetchThumbnailsOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - ce3e9a2b2dd25348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPMoveOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 8252526371f5f456"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPSpotlightDropIndexOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - ebe2906976ae5a80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPListRemoteVersionsOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 9ceabab62eb5dabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FPActionOperation main]"
+                  moduleName = "FileProvider"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 6ece60d164faf010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_UIDocumentActivityDownloadOperation main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 104459d893a13ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_UIFocusMoveTest main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 23b52f4c0cf62a30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_UIFocusSwipeTest main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 53944039deece903"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_UIFocusTest main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 5efeed605aac02f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIPDFPageRenderOperation main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - a0c2a8a1dda4ad3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIWebPDFSearchOperation main]"
+                  moduleName = "UIKitCore"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 6a03216f853a37b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIActivityItemProvider main]"
+                  moduleName = "ShareSheet"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 4a6b2592ca117f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[_UIDICActivityItemProvider main]"
+                  moduleName = "ShareSheet"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "5FE8AFD1-87AC-431C-BD39-1D73CE74666C - 4aa800ff33940f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIPrintWebKitThumbnailGenerationOperation main]"
+                  moduleName = "PrintKitUI"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
