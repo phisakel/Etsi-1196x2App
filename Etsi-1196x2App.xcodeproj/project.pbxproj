@@ -425,7 +425,6 @@
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					/usr/lib/swift,
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.scytales.Etsi-1196x2App";
@@ -458,7 +457,6 @@
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					/usr/lib/swift,
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.scytales.Etsi-1196x2App";
@@ -604,7 +602,7 @@
 			repositoryURL = "https://github.com/eu-digital-identity-wallet/eudi-lib-kmp-etsi-1196x2/";
 			requirement = {
 				kind = revision;
-				revision = 7497cc20f53fcfe616a52926276ea67a6a3ffa52;
+				revision = fe25f428471b88e975b6b07814162a2d14abbfe4;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
